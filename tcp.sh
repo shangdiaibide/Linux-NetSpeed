@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
+LANG=zh_CN.UTF-8
 
 #=================================================
 #	System Required: CentOS 6/7,Debian 8/9,Ubuntu 16+
